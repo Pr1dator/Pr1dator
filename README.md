@@ -1,18 +1,16 @@
 <!-- Premium GitHub Profile README: Pr1dator -->
 
-<h1 align="center">Med Aziz Masri</h1>
-<p align="center">
-  Software Engineering student • Full‑Stack Web Development • Open to Internship (PFE)
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:masoriaziz@gmail.com">masoriaziz@gmail.com</a> •
-  <span>Mahdia, Tunisia</span>
-</p>
+  <h3> 👨‍💻 Full-Stack Developper | Cybersecurity Enthusiast | Ethical Hacking </h3>
 
-<p align="center">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=AI+%26+Machine+Learning+Explorer;Full-Stack+Web+Developer;Data+Science+Enthusiast;Building+Intelligent+Web+Apps" alt="Typing SVG" />
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Location-Tunisia-red?style=for-the-badge&logo=googlemaps&logoColor=white" />
+    <img src="https://img.shields.io/badge/Local%20Time-GMT%2B1-blue?style=for-the-badge&logo=clock&logoColor=white" />
+  </p>
+</div>
 
 ---
 
