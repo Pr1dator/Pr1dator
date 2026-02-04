@@ -4,7 +4,7 @@
 
   <h3> 👨‍💻 Full-Stack Developper | Cybersecurity Enthusiast | Ethical Hacking </h3>
 
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=AI+%26+Machine+Learning+Explorer;Full-Stack+Web+Developer;Data+Science+Enthusiast;Building+Intelligent+Web+Apps" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=AI+%26+Cybersecurity+Explorer;Full-Stack+Web+Developer;Ethical+Hacking+Enthusiast;Building+Intelligent+Web+Apps" alt="Typing SVG" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/Location-Tunisia-red?style=for-the-badge&logo=googlemaps&logoColor=white" />
